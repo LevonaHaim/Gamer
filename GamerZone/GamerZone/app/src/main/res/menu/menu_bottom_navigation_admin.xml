@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/gamesFragment"
+        android:icon="@drawable/selector_game"
+        android:title="@string/bottom_nav_games_label" />
+    <item
+        android:id="@+id/favoritesFragment"
+        android:icon="@drawable/selector_favorite"
+        android:title="@string/bottom_nav_favorites_label" />
+    <item
+        android:id="@+id/adminPanelFragment"
+        android:icon="@drawable/selector_admin"
+        android:title="@string/bottom_nav_admin_panel_label" />
+</menu>

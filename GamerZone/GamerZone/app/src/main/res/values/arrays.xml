@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_data" >
+        <item>Alphabetically Asc</item>
+        <item>Alphabetically Dsc</item>
+        <item>Alphabetically Dsc</item>
+    </string-array>
+</resources>
